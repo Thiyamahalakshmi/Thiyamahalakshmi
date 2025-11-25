@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Thiyamahalakshmi
+- 👋 Hi, I’m @
+- mahalakshmi
 - 👀 I’m interested in ...cybersecurity
 - 🌱 I’m currently learning ...basic cybersecurity
 - 💞️ I’m looking to collaborate on ...
